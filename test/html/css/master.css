@@ -1,3 +1,3 @@
-��this is master css file for html
-
-this css file is edited in editor
+body, html, p, div, ul, li, img, input , a{margin:0px; padding:0px; border:0px;}
+body{width:100%; background:#515151; font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#aaaaaa; line-height:22px; }
+.wrapper{width:980px; margin:0 auto;}
